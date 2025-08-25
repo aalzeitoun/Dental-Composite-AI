@@ -1,0 +1,20 @@
+{
+  "LightGBM": {
+    "R2_mean": -0.8244685009433146,
+    "R2_std": 0.8597425176392531,
+    "MAE_mean": 23.116289417601717,
+    "RMSE_mean": 28.76524905383301
+  },
+  "CatBoost": {
+    "R2_mean": -0.3934914808141005,
+    "R2_std": 0.5356259374897959,
+    "MAE_mean": 21.02990366030168,
+    "RMSE_mean": 25.360780310919658
+  },
+  "files": {
+    "augmented_csv": "augmented_features.csv",
+    "fi_lightgbm_csv": "feature_importance_lightgbm.csv",
+    "fi_catboost_csv": "feature_importance_catboost.csv",
+    "shap_lightgbm_csv": "shap_mean_abs_lightgbm.csv"
+  }
+}
