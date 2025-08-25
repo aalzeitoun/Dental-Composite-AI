@@ -34,10 +34,10 @@ The project's key findings are summarized in the generated plots and output file
 
 ## Visualizations
 
-![LightGBM Feature Importance](LightGBM%20Feature%20Importance.png)
+![LightGBM Feature Importance](plots/LightGBM_Feature_Importance.png)
 _A bar chart showing the importance of each feature in the LightGBM model._
 
-![Actual vs Predicted Plot](<Actual%20vs.%20Predicted%20Values%20(LightGBM).png>)
+![Actual vs Predicted Plot](plots/Actual-vs-Predicted-Values_LightGBM.png)
 _A scatter plot showing how closely the model's predictions align with actual values._
 
 ...and so on for the other plots.
